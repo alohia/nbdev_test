@@ -3,6 +3,11 @@
 > Covering the tutorial of nbdev
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
 Will help in building future packages
 
 ## Install
