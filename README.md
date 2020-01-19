@@ -1,3 +1,4 @@
+
 # Welcome to nbdev_test
 > Covering the tutorial of nbdev
 
@@ -6,7 +7,7 @@ Will help in building future packages
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdev_test`
 
 ## How to use
 
